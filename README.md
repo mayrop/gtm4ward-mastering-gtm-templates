@@ -2,6 +2,8 @@
 Event hosted by MeasureMinds Group
 October 15, 2024 – Online event
 
+### <a href="https://github.com/mayrop/gtm4ward-mastering-gtm-templates/blob/main/gtm4ward_slides.pdf">Presentation Slides</a>
+
 ### How to reach me 📫
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mayrop/en/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:4valdes@gmail.com&subject=GTM4ward)
